@@ -42,18 +42,5 @@ Installation/Configuration:
 ![Screenshot Requests by Status](docs/screenshot-requests-by-status.png)
 
 
-Changelog
---------------
 
-* 2013-07-15: Initial release
-
-Roadmap
---------------
-
-Allow pushing to multiple zabbix hosts - If you are using nginx as proxy in front of various applications it should be possible to filter these applications to get separated statistics.
-
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hpoul/zabbix-nginx-stats/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
