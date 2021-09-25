@@ -37,9 +37,7 @@ Installation/Configuration:
 
     8-59/10 * * * *   root      /home/scripts/zabbix-nginx-stats/zabbix-nginx-stats-runner.sh
 
-### watch results coming in.
 
-![Screenshot Requests by Status](docs/screenshot-requests-by-status.png)
 
 
 
